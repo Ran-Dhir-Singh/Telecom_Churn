@@ -1,2 +1,8 @@
 data/
 data
+
+mlruns/
+mlruns
+
+.ipynb_checkpoints/
+.ipynb_checkpoints
