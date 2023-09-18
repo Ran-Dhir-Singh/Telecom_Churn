@@ -8,15 +8,18 @@
     The goal is to build a machine learning model that is able to predict churning customers based on the features provided for their usage.
 
 ## Evaluation
-    *Goal
-    It is your job to predict if a customer will churn, given the ~170 columns containing customer behavior, usage patterns, payment patterns, and other features that might be relevant. Your target variable is "churn_probability"
+* Goal:
+      It is your job to predict if a customer will churn, given the ~170 columns containing customer behavior, usage patterns, payment patterns, and other features that might be relevant. Your target variable is "churn_probability"
 
-    * Metric
+* Metric
     Submissions are evaluated on Classification Accuracy between the value of the predicted value and the actual value of churn for each of the customers.
 
 
 ## Dataset Description
     Link : https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c52/data
+
+
+    
 
 
 
